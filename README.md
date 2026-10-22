@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ PhishGuard
 ### Explainable Phishing URL Risk Analyzer
 
@@ -70,7 +71,7 @@ PhishGuard/
 Replace the example URL with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PhishGuard.git
+git clone https://github.com/khouloudbm10/PhishGuard.git
 cd PhishGuard
 ```
 
