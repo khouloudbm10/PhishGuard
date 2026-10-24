@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ PhishGuard
 ### Explainable Phishing URL Risk Analyzer
 
@@ -184,6 +183,4 @@ Computer Science Student | Cybersecurity & Networking
 
 GitHub: (https://github.com/khouloudbm10)
 
-## 📄 License
 
-Choose and add an appropriate open-source license before distributing the project. No license has been specified yet.
