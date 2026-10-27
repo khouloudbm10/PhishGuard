@@ -181,6 +181,5 @@ Use reserved example domains and documentation IP addresses when testing. Do not
 
 Computer Science Student | Cybersecurity & Networking
 
-GitHub: (https://github.com/khouloudbm10)
 
 
