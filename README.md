@@ -7,6 +7,7 @@ The goal is to demonstrate practical skills in Python development, defensive sec
 
 > **Disclaimer:** PhishGuard is an educational project. Its heuristic risk score is not a probability of phishing and cannot guarantee that a URL is safe or malicious.
 
+
 ## ✨ Features
 
 - **URL analysis:** Examine URL text without intentionally visiting the destination.
@@ -65,11 +66,6 @@ PhishGuard/
 - Git (optional for local use, required for the Git workflow below).
 - VS Code or another Python editor.
 
-
-**Khouloud BM**
-
-Computer Science Student | Cybersecurity & Networking
-
-GitHub: (https://github.com/khouloudbm10)
+Computer Science Student 
 
 
